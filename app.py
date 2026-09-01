@@ -1,5 +1,5 @@
 # Senior Project Intro
-name = "Stephen"
+name = "Stephen Ganthier"
 major = "Computer Science"
 interest = "Artificial Intelligence"
 skill = "Full-stack web development"
